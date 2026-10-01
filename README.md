@@ -20,7 +20,7 @@ physical barrels, partially hedged with Brent, which leaves WTI–Brent basis ri
 | Backtest | Rolling 250-day VaR vs next-day actual P&L, 2001–2026; Kupiec POF, Christoffersen independence, Basel traffic light, exceptions by year |
 | Stress tests | Negative WTI (Apr 2020), COVID/price war, 2022 Russia spike and reversal, 2008 GFC, 2014–15 glut, plus hypothetical parallel, spread and -$40 scenarios |
 
-## Results (as of 2026-09-29)
+## Results 
 
 MTM value **$3.92M** (WTI $96.16, Brent $113.96).
 
